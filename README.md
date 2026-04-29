@@ -95,5 +95,3 @@ This project is open-source and available under the MIT License.
 GitHub: https://github.com/dark-moody9
 
 ---
-
-⭐ If you like this project, don’t forget to star the repo!
